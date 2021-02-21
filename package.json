@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-eduardorflym",
+  "version": "1.0.1",
+  "description": "Generates random messages to the user",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Erick Eduardo <edu.2010@live.com.mx>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambassadeurdufeu/npm_random_messages_eduardorflym.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ambassadeurdufeu/npm_random_messages_eduardorflym/issues"
+  },
+  "homepage": "https://github.com/ambassadeurdufeu/npm_random_messages_eduardorflym#readme"
+}
